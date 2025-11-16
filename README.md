@@ -2,66 +2,107 @@
 
 # Hi, I'm Eyad Saleh 👋
 
-### Computer Science Senior @ KSIU | Cloud & Data Engineering Specialist
+### Computer Science Senior @ KSIU | Passionate About Cloud & Data Engineering
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Pipeline+Architecture;Cloud+Infrastructure+Design;Stream+Processing+%26+Analytics" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Data+Pipelines+%F0%9F%9A%80;Architecting+Cloud+Solutions+%E2%98%81%EF%B8%8F;Real-Time+Stream+Processing+%F0%9F%93%8A;Transforming+Raw+Data+into+Insights+%F0%9F%92%A1" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
 ---
 
-## 📍 About
+## 💫 About Me
 
-I'm a Computer Science senior at KSIU with a strong focus on cloud infrastructure and data engineering. I specialize in building scalable data pipelines and designing robust cloud-native architectures.
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```python
-expertise = {
-    "focus_areas": ["Data Engineering", "Cloud Architecture", "Distributed Systems"],
-    "current_stack": ["PostgreSQL", "Docker", "Apache Kafka", "Python"],
-    "cloud_platforms": ["AWS", "Azure"],
-    "interests": ["ETL Pipelines", "Stream Processing", "Infrastructure as Code"]
-}
+class DataEngineer:
+    
+    def __init__(self):
+        self.name = "Eyad Saleh"
+        self.role = "Data Engineering Specialist"
+        self.location = "KSIU, Egypt 🇪🇬"
+        self.education = "Computer Science Senior"
+        
+    def current_focus(self):
+        return {
+            "learning": [
+                "PostgreSQL",
+                "Docker & Kubernetes", 
+                "Apache Kafka",
+                "Data Orchestration"
+            ],
+            "passionate_about": [
+                "Building ETL Pipelines",
+                "Cloud Architecture",
+                "Stream Processing",
+                "Distributed Systems"
+            ]
+        }
+    
+    def skills(self):
+        return {
+            "cloud": ["AWS", "Azure"],
+            "databases": ["PostgreSQL", "SQL"],
+            "tools": ["Docker", "Kafka", "Git"],
+            "languages": ["Python", "C++", "Bash"]
+        }
+
+    def fun_fact(self):
+        return "I type at 140 WPM ⚡ Faster than data streams!"
+
+me = DataEngineer()
+print(me.current_focus())
 ```
 
-**Currently:** Deepening expertise in PostgreSQL, Docker, Kafka, and modern data orchestration tools
-
-**Goal:** Building production-grade data solutions and contributing to distributed systems architecture
+<br clear="right"/>
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
-### Cloud & Infrastructure
+### ☁️ Cloud & Infrastructure
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Data Engineering
+### 📊 Data Engineering & Analytics
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-### Tools & Technologies
+### 🔧 Developer Tools
+
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Analytics
 
 <div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marrowdust&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="Contribution Graph">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marrowdust&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marrowdust&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marrowdust&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8"/>
+
 </div>
 
 <div align="center">
@@ -70,42 +111,75 @@ expertise = {
 
 ---
 
-## 🎯 Current Focus Areas
+## 🎯 What Drives Me
 
 <div align="center">
 
 ```mermaid
-graph TD
-    A[Data Engineering] --> B[Stream Processing]
-    A --> C[Cloud Infrastructure]
+graph LR
+    A[Data Engineering Passion] --> B[Stream Processing]
+    A --> C[Cloud Architecture]
     A --> D[Pipeline Orchestration]
-    B --> E[Apache Kafka]
-    C --> F[AWS & Azure]
-    D --> G[Workflow Management]
-    style A fill:#00D9FF,stroke:#00D9FF,color:#000
-    style B fill:#1a1a2e,stroke:#00D9FF
-    style C fill:#1a1a2e,stroke:#00D9FF
-    style D fill:#1a1a2e,stroke:#00D9FF
+    B --> E[Apache Kafka<br/>Real-time Data]
+    C --> F[AWS & Azure<br/>Scalable Infrastructure]
+    D --> G[ETL Workflows<br/>Data Transformation]
+    
+    style A fill:#00D9FF,stroke:#00D9FF,color:#000,stroke-width:3px
+    style B fill:#1a1a2e,stroke:#00D9FF,stroke-width:2px
+    style C fill:#1a1a2e,stroke:#00D9FF,stroke-width:2px
+    style D fill:#1a1a2e,stroke:#00D9FF,stroke-width:2px
+    style E fill:#16213e,stroke:#00D9FF
+    style F fill:#16213e,stroke:#00D9FF
+    style G fill:#16213e,stroke:#00D9FF
 ```
 
 </div>
 
-**Key Areas of Development:**
-- Designing scalable data pipeline architectures
-- Implementing real-time stream processing solutions
-- Building cloud-native infrastructure with containerization
-- Developing efficient ETL workflows and data transformation processes
+### 🚀 Current Mission
+
+```javascript
+const currentGoals = {
+    shortTerm: [
+        "Master PostgreSQL query optimization",
+        "Build production-ready Kafka streams",
+        "Deploy containerized data pipelines"
+    ],
+    longTerm: [
+        "Architect enterprise-scale data platforms",
+        "Contribute to open-source data tools",
+        "Become a distributed systems expert"
+    ],
+    passion: "Turning complex data challenges into elegant solutions ✨"
+};
+
+console.log("Every pipeline tells a story. Let's write better ones together!");
+```
 
 ---
 
-## 📫 Connect
+## 🌟 Fun Facts & Interests
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Speed Demon:** 140 WPM typing speed - I process data fast in code AND in real life!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Philosophy:** *"Data is the new oil, but without proper pipelines, it's just crude."*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Current Vibe:** Building systems that scale, one container at a time 🐳
+
+---
+
+## 📫 Let's Connect & Collaborate!
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyad-saleh-810a1a293/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eiad222101239@ksiu.edu.eg)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marrowdust)
 
-**Open to opportunities in data engineering and cloud architecture roles**
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+### 💼 Open to opportunities in Data Engineering & Cloud Architecture
+
+*"Let's build something amazing together!"*
 
 </div>
 
@@ -115,6 +189,6 @@ graph TD
 
 <img src="https://komarev.com/ghpvc/?username=marrowdust&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views" />
 
-*Building robust data solutions, one pipeline at a time*
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-</div>
+**⭐ Thanks for visiting! If you like what you see, let's connect!**
