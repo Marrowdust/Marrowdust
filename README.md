@@ -159,7 +159,7 @@ graph LR
 
 ## 🌟 Fun Facts & Interests
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Speed Demon:** 140 WPM typing speed - I process data fast in code AND in real life!
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Speed Typist:** 140 WPM typing speed - I process data fast in code AND in real life!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Philosophy:** *"Data is the new oil, but without proper pipelines, it's just crude."*
 
